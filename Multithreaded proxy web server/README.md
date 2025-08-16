@@ -83,11 +83,5 @@ Then configure your browser or system to use `localhost:8080` as the HTTP proxy.
 
 ---
 
-## 🧑‍💻 Author
-- **Adarsh Mukund Jha**  
-  Student @ NIT Raipur | Competitive Programmer | Systems Enthusiast
-
----
-
 ## 📜 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
